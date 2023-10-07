@@ -13,7 +13,6 @@ const CustomHook = () => {
       <form onSubmit={handleSubmit}>
         <input {...nameState} type="email" id="" name="email" />
         <br />
-
         <input type="submit" value="submitff" />
       </form>
     </div>
